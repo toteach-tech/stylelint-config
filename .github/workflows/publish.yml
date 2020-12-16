@@ -1,7 +1,10 @@
 name: Node.js Package
 on:
-  release:
-    types: [created]
+  pull_request:
+  push:
+    branches:
+      - develop
+      - master
 jobs:
   build:
     runs-on: ubuntu-latest
