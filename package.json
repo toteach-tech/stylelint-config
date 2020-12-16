@@ -1,7 +1,7 @@
 {
   "author": "toteach.io",
   "name": "@toteach-tech/stylelint-config",
-  "version": "1.0.1608124266",
+  "version": "1.0.1608124269",
   "description": "Stylelint config. Rules combinations for stylelint linter.",
   "main": "index.js",
   "license": "MIT",
